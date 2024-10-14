@@ -1,0 +1,120 @@
+.start{
+    display: flex;
+    background-color:rgb(7, 7, 74);
+    color: #FFFFFF;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.first{
+    width: 90%;
+}
+h3{
+    padding-right: 25px;
+}
+.start div{
+padding-left: 100px;
+display: flex;
+}
+.one{
+ background-color: rgb(241, 240, 240);
+ display: flex;
+ justify-content: space-around;
+ text-align: left;
+ margin-left: 100px;
+    margin-right: 100px;
+}
+.OS{
+    color: green;
+}
+.OS2{
+    text-align: center;
+}
+.OS1{
+    width: 600px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    margin: 0 auto;
+}
+.container div{
+    width: 200px;
+}
+.three{
+    display: flex;
+    background-color: ghostwhite;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: center;
+}
+.TO{
+    text-align: left;
+    width: 500px;
+}
+.ex{
+    text-align: center;
+    background-color: grey;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.four{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: gray;
+    height: 600px;
+    margin-left: 100px;
+margin-right: 100px;
+}
+.FO1{
+padding: 100px;
+width: 400px;
+height: 400px;
+justify-content: center;
+}
+.five{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.FO{
+    padding: 100px;
+}
+.last{
+    display: flex;
+    background-color: rgb(34, 34, 44);
+    color: white;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.last div{
+width: 200px;
+}
+.ku,.ga,.th,.ee,.sa {
+height: 100px;
+width: 100px !important;
+background:rgb(239, 238, 238);
+padding: 20px;
+border-radius: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-left: 25px;
+}
+.nv{
+    height: 100px;
+    width: 100px !important;
+    background:rgb(239, 238, 238);
+    padding: 20px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+
+}
+.vk{
+    text-align: end;
+}
